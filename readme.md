@@ -19,7 +19,7 @@ Utilizar os desafios do roadmap.sh para:
 
 | Projeto                            | Tecnologias | Status      |
 | ---------------------------------- | ----------- | ----------- |
-| [Image Grid Layout](./image-grid/) | HTML, CSS   | ✅ Concluído |
+| [Image Grid Layout](https://roadmap.sh/projects/image-grid) | HTML, CSS   | ✅ Concluído |
 
 > A lista será atualizada à medida que novos projetos forem desenvolvidos.
 
